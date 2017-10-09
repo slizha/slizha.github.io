@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> Sarah's Website </title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+</head>
+
+<body>
+  <h1> Sarah Hammond </h1>
+  <div class="nav">
+    <div class="container">
+      <ul>
+        <li></li>
+        <li>Portfolio</li>
+        <li>Resume</li>
+        <li>Contact</li>
+      </ul>
+    </div>
+  </div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <hr>
+  <div class="logos">
+    <a href="https://github.com/slizha"><img class="social" id = "git" src="GitHub.png" alt="GitHub logo"></a><br>
+    <a href="https://www.linkedin.com/in/sarah-h-522b47135/"><img class="social" id="linked" src="LinkedIn.png" alt="LinkedIn logo"></a><br>
+    <a href="mailto: s.hammond@berkeley.edu?"><img class="social" id="email" src="email.png" alt="Gmail logo"></a><br>
+  </div>
+  <div>
+    <img src="sarah.png" id="sarah" alt="Picture of me">
+  </div>
+  <p> Hi! I'm Sarah Hammond, as student at UC Berkeley, and I'm going to write this section at a later time.
+  </p>
+</body>
+
+</html>
