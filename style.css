@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+}
+@font-face {
+    font-family: Simplifica;
+    src: url("SIMPLIFICA Typeface.ttf")
+}
+h1{
+  font-family: "Raleway", sans-serif;
+  size: 50px;
+  margin: 0 auto;
+  width: 70%
+  padding: 0 10px;
+  float: left;
+  font-size: 50px;
+  color: #20B2AA;
+}
+.container {
+  margin: 0 auto;
+  max-width: 940px;
+  padding: 0 10px;
+  float: right;
+}
+.nav {
+  font-family: "Simplifica", sans-serif;
+  height: 50px;
+  width: 50%;
+  float: right;
+}
+
+.nav ul {
+  height: 50px;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.nav ul li {
+  display: inline-block;
+  height: 50px;
+  line-height: 50px;
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s;
+  font-size: 20px;
+}
+img{
+width: 450px;
+height:450px;
+}
+.social{
+width: 50px;
+height: 50px;
+}
+.logos{
+  width: 50px;
+  float: left;
+  margin-top: 70px;
+}
+#sarah{
+  float: left;
+  margin-left: 70px;
+  margin-top: 50px;
+}
+p{
+  float: right;
+  width: 50%;
+  padding: 40px;
+  margin-top: 60px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  margin-right: 90px;
+}
